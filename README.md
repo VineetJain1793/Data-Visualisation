@@ -1,4 +1,4 @@
-# matplotlib4j
+# matplotlib
 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.sh0nk/matplotlib4j/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.sh0nk/matplotlib4j)
 [![Build Status](https://travis-ci.org/sh0nk/matplotlib4j.svg?branch=master)](https://travis-ci.org/sh0nk/matplotlib4j)
@@ -138,12 +138,6 @@ Import to your projects as follows.
     <artifactId>matplotlib4j</artifactId>
     <version>0.5.0</version>
 </dependency>
-```
-
-**Gradle**
-
-```groovy
-compile 'com.github.sh0nk:matplotlib4j:0.5.0'
 ```
 
 # License
